@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week14OOP", "Week14OOP\Week14OOP.csproj", "{952448D8-63FA-4333-A7E8-15DE27E5C1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kass", "Kass\Kass.csproj", "{04C3A7C7-BA15-45E0-9AFF-0DCD2C09ED7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952448D8-63FA-4333-A7E8-15DE27E5C1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952448D8-63FA-4333-A7E8-15DE27E5C1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952448D8-63FA-4333-A7E8-15DE27E5C1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952448D8-63FA-4333-A7E8-15DE27E5C1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C3A7C7-BA15-45E0-9AFF-0DCD2C09ED7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C3A7C7-BA15-45E0-9AFF-0DCD2C09ED7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C3A7C7-BA15-45E0-9AFF-0DCD2C09ED7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C3A7C7-BA15-45E0-9AFF-0DCD2C09ED7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE98782-ADCE-4A49-ACA0-7AD29B06B43B}
+	EndGlobalSection
+EndGlobal
